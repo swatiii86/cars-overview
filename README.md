@@ -23,8 +23,7 @@ This repository showcases an interactive **Car Insights Dashboard** built using 
 ---
 
 ## 📂 Repository Contents  
-- `Car-Insights-Dashboard.pbix`: Power BI dashboard file.  
-- `cars_with_images.csv`: Dataset used to create the dashboard.  
+- `cars.pbit`: Power BI dashboard file.  
 - `README.md`: Documentation for the project.  
 
 ---
